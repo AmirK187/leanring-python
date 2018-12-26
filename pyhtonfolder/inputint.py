@@ -1,0 +1,1 @@
+num = round(float(input('Please enter a number: ')))

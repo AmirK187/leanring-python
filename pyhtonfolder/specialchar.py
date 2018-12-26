@@ -1,0 +1,10 @@
+print("Did you know that 'word' is a word?")
+print('Did you know that "word" is a word?')
+print("Did you know that \'word\' is a word?")
+print("Did you know that \"word\" is a word?")
+filename = 'C:\\Users\\amir'
+print(filename)
+print('Please enter some text:')
+x = input('My name is Amir.')
+print('Text Entered:', x)
+print('Type:', type(x))

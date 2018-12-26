@@ -1,0 +1,6 @@
+print("   *   ")
+print("  ***  ")
+print(" ***** ")
+print("   *   ")
+print("   *   ")
+print("To the top!!!")
